@@ -1,5 +1,8 @@
 ### Hi there 👋
+### My name is Khamidjon
 
+### I am
+- Lead Flutter Engineer at Paynet
 <!--
 **khamidjon/khamidjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
