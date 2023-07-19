@@ -1,8 +1,10 @@
 ### Hi there 👋
 ### My name is Khamidjon
 
-### I am
-- Lead Flutter Engineer at Paynet
+- Lead & Senior Flutter Engineer at [Paynet](https://play.google.com/store/apps/details?id=uz.paynet.app)
+- I make videos at [Flutter Dose](https://www.youtube.com/channel/UCZxcSiiiqZ1q_RTld4YdWDQ)
+- Reach me at [LinkedIn](https://www.linkedin.com/in/khamidjonegamov/)
+ 
 <!--
 **khamidjon/khamidjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
