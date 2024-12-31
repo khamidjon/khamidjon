@@ -1,6 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Khamidjon!</h1>
 
 - Lead & Senior Flutter Engineer at [Paynet](https://play.google.com/store/apps/details?id=uz.paynet.app)
+- I write articles at [khamidjon.dev](https://khamidjon.dev)
 - I make videos at [Flutter Dose](https://www.youtube.com/channel/UCZxcSiiiqZ1q_RTld4YdWDQ)
 - Reach me at [LinkedIn](https://www.linkedin.com/in/khamidjonegamov/)
  
